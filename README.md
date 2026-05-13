@@ -80,7 +80,7 @@ This project demonstrates how hospitality businesses can transform raw operation
 
 ## 🌐 Live Dashboard
 
-Explore the Interactive [Hospitality Analytics Dashboard](https://app.powerbi.com/groups/me/reports/f20f544d-280d-44a9-b48f-90826c52c65d/1e20f75fa8180b447778?experience=power-bi)
+Explore the Interactive [Hospitality Analytics Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzU3NWI4YzktYTg2Ni00ZDdlLWFkMzEtZmJlYmFmMTcyNzNhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
