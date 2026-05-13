@@ -27,20 +27,20 @@ Due to increasing competition and ineffective management decisions, AtliQ Grands
 
 The management wanted to leverage Business & Data Intelligence to:
 
-Improve revenue performance
-Track occupancy and booking trends
-Monitor property-level performance
-Enable data-driven strategic decisions
-Replace static reporting with interactive dashboards
+- Improve revenue performance
+- Track occupancy and booking trends
+- Monitor property-level performance
+- Enable data-driven strategic decisions
+- Replace static reporting with interactive dashboards
 
 ---
 
 ## 📊 Dashboard Views & Analysis
-Revenue Analysis: Track revenue trends, RevPAR, ADR, and realization metrics.
-Occupancy Analysis: Monitor occupancy %, booking trends, and cancellation behavior.
-Platform Analysis: Compare booking platforms based on ADR and realization %.
-Property Performance: Analyze city-wise and property-wise business performance.
-Trend Analysis: Evaluate Week-over-Week changes across key hospitality KPIs.
+- Revenue Analysis: Track revenue trends, RevPAR, ADR, and realization metrics. 
+- Occupancy Analysis: Monitor occupancy %, booking trends, and cancellation behavior. 
+- Platform Analysis: Compare booking platforms based on ADR and realization %. 
+- Property Performance: Analyze city-wise and property-wise business performance. 
+- Trend Analysis: Evaluate Week-over-Week changes across key hospitality KPIs.
 
 ---
 
