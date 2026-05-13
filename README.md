@@ -36,39 +36,39 @@ The management wanted to leverage Business & Data Intelligence to:
 ---
 
 ## 📊 Dashboard Views & Analysis
-- Revenue Analysis: Track revenue trends, RevPAR, ADR, and realization metrics. 
-- Occupancy Analysis: Monitor occupancy %, booking trends, and cancellation behavior. 
-- Platform Analysis: Compare booking platforms based on ADR and realization %. 
-- Property Performance: Analyze city-wise and property-wise business performance. 
-- Trend Analysis: Evaluate Week-over-Week changes across key hospitality KPIs.
+- **Revenue Analysis:** Track revenue trends, RevPAR, ADR, and realization metrics. 
+- **Occupancy Analysis:** Monitor occupancy %, booking trends, and cancellation behavior. 
+- **Platform Analysis:** Compare booking platforms based on ADR and realization %. 
+- **Property Performance:** Analyze city-wise and property-wise business performance. 
+- **Trend Analysis:** Evaluate Week-over-Week changes across key hospitality KPIs.
 
 ---
 
 ## 💾 Data Sources
-CSV / Excel Files containing hospitality booking and operational data
+- CSV / Excel Files containing hospitality booking and operational data
 
 ---
 
 ## 🛠 Skills & Tools Used
-Power BI Dashboard Development
-Power Query for Data Transformation
-DAX for KPI & WoW Calculations
-Data Modeling & Relationships
-Interactive Dashboard Design
-KPI Design & Business Storytelling
-Hospitality Metrics Analysis (ADR, RevPAR, DSRN, DBRN, Occupancy %)
-Dynamic Filtering & Navigation Techniques
+- Power BI Dashboard Development 
+- Power Query for Data Transformation 
+- DAX for KPI & WoW Calculations 
+- Data Modeling & Relationships 
+- Interactive Dashboard Design 
+- KPI Design & Business Storytelling 
+- Hospitality Metrics Analysis (ADR, RevPAR, DSRN, DBRN, Occupancy %) 
+- Dynamic Filtering & Navigation Techniques
 
 ---
 
 ## 📈 Key KPIs Created
-Revenue
-Occupancy %
-ADR (Average Daily Rate)
-RevPAR (Revenue Per Available Room)
-DSRN / DBRN / DURN
-Realisation %
-Week-over-Week Change %
+- Revenue 
+- Occupancy % 
+- ADR (Average Daily Rate) 
+- RevPAR (Revenue Per Available Room) 
+- DSRN / DBRN / DURN 
+- Realisation % 
+- Week-over-Week Change % 
 
 ---
 
@@ -80,10 +80,10 @@ This project demonstrates how hospitality businesses can transform raw operation
 
 ## 🌐 Live Dashboard
 
-Explore the Interactive [Hospitality Analytics Dashboard](Add Your Power BI Link)
+Explore the Interactive [Hospitality Analytics Dashboard](https://app.powerbi.com/groups/me/reports/f20f544d-280d-44a9-b48f-90826c52c65d/1e20f75fa8180b447778?experience=power-bi)
 
 ---
 
 ## 🎥 Video Presentation
 
-[Watch](Add Your Video Link) the Project Walkthrough
+[Watch](https://www.youtube.com/watch?v=P36GIW4GIGE) the Project Walkthrough
