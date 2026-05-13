@@ -14,10 +14,10 @@ AtliQ Grands is a luxury five-star hotel chain operating across multiple cities 
 
 The company provides premium hospitality services across:
 
-Luxury Hotels
-Business Hotels
-Online Booking Platforms
-Multiple Indian Cities & Properties
+- Luxury Hotels
+- Business Hotels
+- Online Booking Platforms
+- Multiple Indian Cities & Properties
 
 ---
 
