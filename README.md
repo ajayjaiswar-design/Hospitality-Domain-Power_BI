@@ -6,7 +6,7 @@ This project was completed as part of a Hospitality Analytics Challenge focused 
 
 The objective was to analyze historical hospitality data and build interactive dashboards to help AtliQ Grands make data-driven decisions and improve business performance.
 
-
+---
 
 ## 🏨 Company Overview
 
