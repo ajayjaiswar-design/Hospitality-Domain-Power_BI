@@ -6,8 +6,6 @@ This project was completed as part of a Hospitality Analytics Challenge focused 
 
 The objective was to analyze historical hospitality data and build interactive dashboards to help AtliQ Grands make data-driven decisions and improve business performance.
 
----
-
 ## 🏨 Company Overview
 
 AtliQ Grands is a luxury five-star hotel chain operating across multiple cities in India for the past 20 years.
@@ -18,8 +16,6 @@ The company provides premium hospitality services across:
 - Business Hotels
 - Online Booking Platforms
 - Multiple Indian Cities & Properties
-
----
 
 ## 🎯 Problem Statement
 
@@ -33,8 +29,6 @@ The management wanted to leverage Business & Data Intelligence to:
 - Enable data-driven strategic decisions
 - Replace static reporting with interactive dashboards
 
----
-
 ## 📊 Dashboard Views & Analysis
 - **Revenue Analysis:** Track revenue trends, RevPAR, ADR, and realization metrics. 
 - **Occupancy Analysis:** Monitor occupancy %, booking trends, and cancellation behavior. 
@@ -42,12 +36,8 @@ The management wanted to leverage Business & Data Intelligence to:
 - **Property Performance:** Analyze city-wise and property-wise business performance. 
 - **Trend Analysis:** Evaluate Week-over-Week changes across key hospitality KPIs.
 
----
-
 ## 💾 Data Sources
 - CSV / Excel Files containing hospitality booking and operational data
-
----
 
 ## 🛠 Skills & Tools Used
 - Power BI Dashboard Development 
@@ -59,8 +49,6 @@ The management wanted to leverage Business & Data Intelligence to:
 - Hospitality Metrics Analysis (ADR, RevPAR, DSRN, DBRN, Occupancy %) 
 - Dynamic Filtering & Navigation Techniques
 
----
-
 ## 📈 Key KPIs Created
 - Revenue 
 - Occupancy % 
@@ -70,19 +58,13 @@ The management wanted to leverage Business & Data Intelligence to:
 - Realisation % 
 - Week-over-Week Change % 
 
----
-
 ## ✅ Conclusion
 
 This project demonstrates how hospitality businesses can transform raw operational data into actionable insights using Business Intelligence tools to improve strategic decision-making and overall performance.
 
----
-
 ## 🌐 Live Dashboard
 
 Explore the Interactive [Hospitality Analytics Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzU3NWI4YzktYTg2Ni00ZDdlLWFkMzEtZmJlYmFmMTcyNzNhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=1e20f75fa8180b447778)
-
----
 
 ## 🎥 Video Presentation
 
